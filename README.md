@@ -280,16 +280,14 @@ This project demonstrates:
 - **Streamlit**: Web interface
 - **TensorBoard**: Training visualization
 
-##  License
 
-MIT License - See LICENSE file for details
 
 ##  Author
 
 Abdelrahman Essam
-- GitHub: [@AbdoEssam55](https://github.com/AbdoEssam55)
+- GitHub: [AbdoEssam55](https://github.com/AbdoEssam55)
 - Email: essamabdelrahman558@gmail.com
-- LinkedIn: [@Abdelrahman Essam](https://www.linkedin.com/in/abdelrahman-essam-01b99b220/)
+- LinkedIn: [Abdelrahman Essam](https://www.linkedin.com/in/abdelrahman-essam-01b99b220/)
 
 ##  Acknowledgments
 
